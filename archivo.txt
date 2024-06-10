@@ -1,0 +1,6 @@
+linea 1: inicializando sistema
+linea 2: cargando módulos
+write: interrupción de sistema
+linea 4: proceso interrumpido
+linea 5: reanudando proceso
+linea 6: finalizando ejecución
